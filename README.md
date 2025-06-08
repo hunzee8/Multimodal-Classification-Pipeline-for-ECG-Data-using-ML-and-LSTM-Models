@@ -39,17 +39,6 @@ This project presents a comprehensive machine learning and deep learning pipelin
 - Feature histograms and box plots
 - ROC curves per class for all models
 
-
-## 📁 Folder Structure
-
-```
-ecg-classification-pipeline/
-├── ML.ipynb
-├── ML.pdf
-└── README.md
-```
-
-
 ## 📄 License
 
 This project is licensed under the MIT License. See `LICENSE` for more details.
