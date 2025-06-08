@@ -44,10 +44,9 @@ This project presents a comprehensive machine learning and deep learning pipelin
 
 ```
 ecg-classification-pipeline/
-├── ML.ipynb                  # Jupyter notebook
-├── ML.pdf                   # Exported notebook as PDF
-├── README.md
-└── requirements.txt         # Python dependencies
+├── ML.ipynb
+├── ML.pdf
+└── README.md
 ```
 
 
